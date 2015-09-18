@@ -1,0 +1,1 @@
+"C:\Program Files\Intel\Media SDK 2013\samples\_bin\x64\sample_decode.exe" h264 -i "buffer_capture.264" -r
